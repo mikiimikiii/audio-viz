@@ -1,7 +1,6 @@
 {
-  "name": "audio-visualizer",
+  "name": "glitchcore-visualizer-enhanced",
   "version": "1.0.0",
-  "main": "index.jsx",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,7 +9,6 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "three": "^0.154.0"
+    "react-dom": "latest"
   }
 }
