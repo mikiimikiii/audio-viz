@@ -151,7 +151,7 @@ export default function Visualizer() {
       <input
         ref={fileInputRef}
         type="file"
-        accept="audio/mp3"
+        accept="audio/*"
         onChange={handleFile}
         style={{
           position:'absolute', top:10, left:10, background:'#111', color:'#0ff',
